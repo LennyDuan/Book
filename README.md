@@ -1,3 +1,3 @@
-# My Awesome Book
+# AWS Certified Solutions Architect Notebook 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a notebook record all the knowledge I learned for the AWS Certified Solutions Architect
