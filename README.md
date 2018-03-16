@@ -8,5 +8,5 @@ Most of the content are learning from [Plurasight.com](https://app.pluralsight.c
 
 ---
 
-© Copyright 2018 | All rights reserved - Hongyi Duan \| [Github](https://github.com/LennyDuan) \| Powered by Gitbook
+© Copyright 2018 Hongyi Duan | All rights reserved | [Github](https://github.com/LennyDuan) \| Powered by Gitbook
 
