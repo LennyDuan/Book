@@ -5,7 +5,7 @@ I try to use free-tier only during the learning period, but **always** **always*
 ### Accident List:
 * Only one EBS within 100/3000 IPS.
 * EIP must associate with an instance.
-* EC2 instances running hour total is 750
+* EC2 instances total running hours is 750
 
 
 
