@@ -1,4 +1,8 @@
-# AWS Certified Solutions Architect Notebook
+# Amazon Technologies
+
+All the content can be viewed [lennyduan.gitbooks](https://lennyduan.gitbooks.io/aws-certified-solutions-architect-notebook/content/)
+
+---
 
 This is a notebook record all the knowledge I learned about Amazon Technologies such as MTurk, AWS and ect
 

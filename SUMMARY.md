@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-  * [AWS](aws.md)
-    * [AWS Overview](chapter1.md)
-      * [Billing Trap](chapter1/billing-trap.md)
-    * [VPC](vpc-amazon-virtual-private-cloud.md)
-  * [Amazon](amazon.md)
+  * [AWS](aws/aws.md)
+    * [AWS Overview](aws/overview.md)
+      * [Billing Trap](aws/overview/billing-trap.md)
+    * [VPC](aws/vpc-amazon-virtual-private-cloud.md)
+  * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
