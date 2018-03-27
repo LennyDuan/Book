@@ -8,4 +8,4 @@ In this note, I will introduce and record the knowledge/term/usage for different
 * __[VPC](vpc-amazon-virtual-private-cloud.md)__ - Virtual Private Cloud
 
 ### Useful Notes
-* __[Billing Trap](aws/overview/billing-trap.md)__ - 
+* __[Billing Trap](overview/billing-trap.md)__ - 
