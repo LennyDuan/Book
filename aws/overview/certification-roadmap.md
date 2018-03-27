@@ -1,6 +1,6 @@
 ## AWS Certification Roadmap
 
-#### Basic AWS for a software developer
+#### Basic AWS Certifications for a software developer
 
 ![](/assets/AWS certification tracks.png)  
 Image from: **Pluralsight** course: AWS Certified Solutions Architect - Associate
@@ -8,6 +8,12 @@ Image from: **Pluralsight** course: AWS Certified Solutions Architect - Associat
 * Associate - Technical role-based certifications. No prerequisite.
 * Professional - Highest level technical role-based certification. **Relevant Associate certification required**.
 
+#### Strategy for successful
+![](/assets/strategh.png) 
+* __MUST READ__ - [Prepare for the Exam](https://aws.amazon.com/certification/certification-prep/)
+
+#### Exam for AWS architect associate
+![](/assets/exam.png)
 ---
 
 * [Official AWS certifications Link](https://aws.amazon.com/certification)
