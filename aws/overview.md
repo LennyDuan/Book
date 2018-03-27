@@ -4,4 +4,4 @@ What is Amazon Web Services (AWS)? In a word it is an __Infrastructure service f
 
 ### Chapters
 
-* __[VPC](aws/vpc-amazon-virtual-private-cloud.md)__ - Virtual Private Cloud
+* __[VPC](vpc-amazon-virtual-private-cloud.md)__ - Virtual Private Cloud
