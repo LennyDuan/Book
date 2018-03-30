@@ -14,6 +14,7 @@ Image from: **Pluralsight** course: AWS Certified Solutions Architect - Associat
 
 #### Exam for AWS architect associate
 ![](/assets/exam.png)
+
 ---
 
 * [Official AWS certifications Link](https://aws.amazon.com/certification)
