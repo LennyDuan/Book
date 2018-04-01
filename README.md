@@ -6,7 +6,7 @@ All the content can be viewed [lennyduan.gitbooks](https://lennyduan.gitbooks.io
 
 This is a notebook record all the knowledge I learned about Amazon Technologies such as MTurk, AWS and ect
 
-**Lenny Duan** is the original author. Please give credit to the original author when you use it elsewhere. For any website reprinted the article channels, please reference.
+**Lenny Duan** is the original author. Please give credit to the original author when you use it elsewhere. For any website reprinted the article channels, please reference
 
 ---
 
