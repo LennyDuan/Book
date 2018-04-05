@@ -1,3 +1,5 @@
+## Virtual Private Cloud
+
 #### Virtual Private Cloud Overview
 * __Logically isolated network__ in the AWS cloud:  simplify it and think of a VPC as the first/biggest/master/primary subnet. Use it to create smaller subnet, deploy resources/instances and configure env and everything.
 
@@ -13,5 +15,5 @@
 * __VPC is free__
 
 #### VPC Infrastructure / Reference Architecture
-![](/assets/AWS_VPC architech.png)## Virtual Private Cloud
+![](/assets/AWS_VPC architech.png)
 
