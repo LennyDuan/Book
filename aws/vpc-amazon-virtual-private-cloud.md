@@ -13,3 +13,5 @@
 * __Enable hybrid cloud__ (site-to-site VPN)
 * __Single tenant dedicated server handware__
 * __VPC is free__
+
+#### VPC Infrastructure / Reference Architecture
