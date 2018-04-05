@@ -9,4 +9,6 @@
 * Peering Connections
 * Network ACLs
 * Security Groups
-* VPN
+* VPNs
+
+ 
