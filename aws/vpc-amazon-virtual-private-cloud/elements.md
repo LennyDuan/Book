@@ -1,5 +1,8 @@
 ### VPC Elements
 
+![](/assets/VPC Ele 1.png)
+![](/assets/VPC Ele 2.png)
+
 * Subnets
 * Route Tables
 * Internet Gateways
@@ -11,4 +14,4 @@
 * Security Groups
 * VPNs
 
- 
+![](/assets/VPC Demo.png)
