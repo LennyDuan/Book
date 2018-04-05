@@ -6,3 +6,6 @@
 * VPC have a single region multiple AZs architecture: 1 Region -> Multi-AZ. 
 * CIDR 16-28. 
 * Select IP Prefix.
+
+#### Basic VPC Security
+![Basic VPC Security](/assets/Basic VPC Security.png)
