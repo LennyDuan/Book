@@ -13,7 +13,7 @@
 * __Enable hybrid cloud__ (site-to-site VPN)
 * __Single tenant dedicated server handware__
 * __VPC is free__
-
+* __Region Wide__
 #### VPC Infrastructure / Reference Architecture
 ![](/assets/AWS_VPC architech.png)
 
