@@ -6,3 +6,10 @@
 * __Control of network architecture__: divide VPC into smaller subnet for different purposes such as IP Address/DMZ/Web/DB
 
 * __Enhanced security__: have access to security group for recourses, have access to NACLs(network access control list) to be able to filter down and control what's coming in/going out (SSH/HTTP/HTTPS/UDP and etc..)
+
+* __Internetwork with other organizations__: Use VPC peering to connect different VPC and control other VPCs.
+
+* __Elastic IP Address__: Public IP Address.
+* __Enable hybrid cloud__ (site-to-site VPN)
+* __Single tenant dedicated server handware__
+* __VPC is free__
