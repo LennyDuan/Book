@@ -7,6 +7,7 @@
       * [Certification](aws/overview/certification-roadmap.md)
     * [VPC](aws/vpc-amazon-virtual-private-cloud.md)
       * [Elements](aws/vpc-amazon-virtual-private-cloud/elements.md)
+      * [Characteristics](aws/vpc-amazon-virtual-private-cloud/characteristics.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
