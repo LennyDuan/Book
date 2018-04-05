@@ -1,0 +1,1 @@
+#### A demo design for a structure of Web service 

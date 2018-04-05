@@ -8,6 +8,7 @@
     * [VPC](aws/vpc-amazon-virtual-private-cloud.md)
       * [Elements](aws/vpc-amazon-virtual-private-cloud/elements.md)
       * [Characteristics](aws/vpc-amazon-virtual-private-cloud/characteristics.md)
+      * [WBC VPC Desgin Demo](aws/vpc-amazon-virtual-private-cloud/wbc-vpc-desgin-demo.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
