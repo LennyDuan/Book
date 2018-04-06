@@ -1,4 +1,5 @@
 #### A demo design for a structure of Web service 
+A good design model: 
 ![](/assets/WBC VPC Design.png)
 
 ##### Tips
