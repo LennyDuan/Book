@@ -16,6 +16,7 @@
     * [VPC Connection](aws/vpc-connection.md)
       * VPC Peering
       * Direct Connec
+      * VPN
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
