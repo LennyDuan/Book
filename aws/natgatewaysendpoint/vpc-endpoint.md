@@ -2,6 +2,7 @@
 VPC Endpoints is a service that allow local services to access other resources __locally__.
 
 #### Design Example:
+![](/assets/S3 Endpoints.png)
 
 ---
 
