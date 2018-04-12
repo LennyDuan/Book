@@ -15,6 +15,7 @@
       * [VPC Endpoint](aws/natgatewaysendpoint/vpc-endpoint.md)
     * [VPC Connection](aws/vpc-connection.md)
       * VPC Peering
+      * Direct Connec
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
