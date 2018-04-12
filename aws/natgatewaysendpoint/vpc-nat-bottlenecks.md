@@ -8,7 +8,10 @@
     * Increase instance size.
     * Choose instance that supports enhanced networking
 * Scale out:
-    * Add NAT intances/subnets and migrate workloads
-    ###### One NAT instance - One subnet
+    * Add NAT intances/subnets and migrate workloads (E.g: one 40%, one 35% and the last one 25%.)
+    
+###### Notice:
+* One NAT instance - One subnet
+* Subnet failover to another NAT is supported
 
 Use __NAT Gateway__ instead: An AWS as-a-service
