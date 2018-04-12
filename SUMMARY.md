@@ -11,7 +11,7 @@
       * [WBC VPC Desgin Demo](aws/vpc-amazon-virtual-private-cloud/wbc-vpc-desgin-demo.md)
     * [NAT](aws/natgatewaysendpoint.md)
       * [VPC NAT Bottlenecks](aws/natgatewaysendpoint/vpc-nat-bottlenecks.md)
-      * NAT VS
+      * [NAT VS](aws/natgatewaysendpoint/nat-vs.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
