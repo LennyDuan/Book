@@ -1,5 +1,5 @@
 ## VPC Endpoints
-VPC Endpoints is a service that allow local services to access other resources __locally__. It is a great
+VPC Endpoints is a service that allow local services to access other resources __locally__. It is a great way to control the flow of traffic.
 
 #### Endpoint Design Example:
 ![](/assets/S3 Endpoints.png)
