@@ -9,6 +9,7 @@
       * [Elements](aws/vpc-amazon-virtual-private-cloud/elements.md)
       * [Characteristics](aws/vpc-amazon-virtual-private-cloud/characteristics.md)
       * [WBC VPC Desgin Demo](aws/vpc-amazon-virtual-private-cloud/wbc-vpc-desgin-demo.md)
+    * [NAT/Gateways/Endpoint](aws/natgatewaysendpoint.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
