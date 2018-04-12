@@ -3,5 +3,5 @@
 #### NAT Instances bottlenecks
 ![](/assets/NAT Bottlenecks.png)
 
-##### Sulution:
-Use NAT Gateway instead
+##### Sulution:.
+Use __NAT Gateway__ instead
