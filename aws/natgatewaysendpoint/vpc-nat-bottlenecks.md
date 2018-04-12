@@ -14,4 +14,6 @@
 * One NAT instance - One subnet
 * Subnet failover to another NAT is supported
 
-Use __NAT Gateway__ instead: An AWS as-a-service
+
+#### BUT
+If possible, Use __NAT Gateway__ instead: An AWS as-a-service
