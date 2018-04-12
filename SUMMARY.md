@@ -13,6 +13,7 @@
       * [VPC NAT Bottlenecks](aws/natgatewaysendpoint/vpc-nat-bottlenecks.md)
       * [NAT VS](aws/natgatewaysendpoint/nat-vs.md)
       * [VPC Endpoint](aws/natgatewaysendpoint/vpc-endpoint.md)
+    * [VPC Connection](aws/vpc-connection.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
