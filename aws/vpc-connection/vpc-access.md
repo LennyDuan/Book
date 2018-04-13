@@ -13,7 +13,7 @@ How do access the VPC from __outside__ of the AWS. How do connect __on-premises_
 * __CG__: the representation of what you do at the customer side in order to connect through a __hardware-based VPN__ to your __VP Gateway__
 
 #### VPN Types
-
+##### It is an encrypted connection from the user's location to that remote access server.
 
 ---
 * [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=3&mode=live)
