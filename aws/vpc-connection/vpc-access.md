@@ -18,7 +18,9 @@ How do access the VPC from __outside__ of the AWS. How do connect __on-premises_
 * __Private connection__: typically don through a private connection, this could be an MPLS, a T1, T3 and whatever it can be. Don't go over network and don't have an encryption.
  ![](/assets/vpn types.png)
 
-#### VPC Access Design
+#### VPC Access Diagram
+![](/assets/vpc access diagram.png)
+
 #### Notice
 * From a remote access perspective thsi will all have to be manual, manually configured, you will deploy an instance and this instance will have to be manually configured to be a VPC that you could absolutly deploy on the AWS side and configure it for remote acess.
 * AWS can do is a hardware-based VPN. By defualt it is a dual port/route. Direct Connect by default doesn't have port redundancy.
