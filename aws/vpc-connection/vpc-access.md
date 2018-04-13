@@ -8,9 +8,9 @@ How do access the VPC from __outside__ of the AWS. How do connect __on-premises_
 * __Direct Connect__: Dedicated Private connection that you use where, your AWS will show up as another node as your WAN, or if you're going to  though colo.
 * __VPN CloudHub__: is where you have several branches offices and figure out how to give these branch offices access to VPC (on-premises data center / directly to VPC)
 * __Software VPN__: Where you can stand up an instance on AWS, turn that instance into the endpoint gateway and then through software just connect to if rom your on-premises enviroment
-* __IGW__:
-* __VP Gateway__:
-* __CG__:
+* __IGW__: Configure on AWS VPC side, this is useful to allow instances on VPC to get access to the internet 
+* __VP Gateway__: Is used when you're configuring a __hard-ware based VPN__ to connect your on-premises data center to AWS or to your VPC. This is the endpoint that you configure on your VPC
+* __CG__: the representation of what you do at the customer side in order to connect through a __hardware-based VPN__ to your __VP Gateway__
 
 ---
 * [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=3&mode=live)
