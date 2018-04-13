@@ -12,6 +12,9 @@ How do access the VPC from __outside__ of the AWS. How do connect __on-premises_
 * __VP Gateway__: Is used when you're configuring a __hard-ware based VPN__ to connect your on-premises data center to AWS or to your VPC. This is the endpoint that you configure on your VPC
 * __CG__: the representation of what you do at the customer side in order to connect through a __hardware-based VPN__ to your __VP Gateway__
 
+#### VPN Types
+
+
 ---
 * [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=3&mode=live)
 
