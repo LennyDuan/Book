@@ -10,7 +10,7 @@
 #### Note
  ![](/assets/vpc note.png)
 
-### Configure VPC
+### Configure VPC![](/assets/vpc peering design.png)
 #### Design
 
 ---
