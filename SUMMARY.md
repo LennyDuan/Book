@@ -14,7 +14,7 @@
       * [NAT VS](aws/natgatewaysendpoint/nat-vs.md)
       * [VPC Endpoint](aws/natgatewaysendpoint/vpc-endpoint.md)
     * [VPC Connection](aws/vpc-connection.md)
-      * VPC Peering
+      * [VPC Peering](aws/vpc-connection/vpc-peering.md)
       * Direct Connec
       * VPN
   * [Amazon](amazon/amazon.md)
