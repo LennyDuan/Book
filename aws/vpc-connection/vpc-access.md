@@ -15,7 +15,7 @@ How do access the VPC from __outside__ of the AWS. How do connect __on-premises_
 #### VPN Types
 * __Common VPN__: It is an encrypted connection from the user's location to that remote access server.
 * __Site-to-site VPN__: using internet and an encrypted connection, it's a site-to-site connection between your corporate office and branch. But it leveraging the internet as a mechanism, as the medium of transport and as a result you are encrypting.
-
+![](/assets/von types.png)
 
 
 ---
