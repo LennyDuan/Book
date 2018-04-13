@@ -10,9 +10,9 @@
 #### Note
  ![](/assets/vpc note.png)
 
-### Configure VPC!
+### Configure VPC
 #### Design
-[](/assets/vpc peering design.png)
+![](/assets/vpc peering design.png)
 
 ---
 * [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=1&mode=live)
