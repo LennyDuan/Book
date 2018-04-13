@@ -7,5 +7,8 @@
 * No transitive Peering without direct connect
 * 50 VPC peers per VPC, up to 125 by request
 
+#### Note
+ ![](/assets/vpc note.png)
 ---
 * [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=1&mode=live)
+
