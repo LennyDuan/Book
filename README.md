@@ -10,5 +10,5 @@ This is a notebook record all the knowledge I learned about Amazon Technologies 
 
 ---
 
-© Copyright 2018 Hongyi Duan | All rights reserved | [Github](https://github.com/LennyDuan) \| Powered by Gitbook
+© Copyright 2018 Hongyi Duan | All rights reserved | [Github](https://github.com/LennyDuan) \| Powered by Gitbook 
 
