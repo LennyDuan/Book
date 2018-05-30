@@ -18,3 +18,7 @@ Depending on how far your corporate data center is from nearest AWS region or fr
 ##### P.S. EXAM: Default direct connect doest not come with, it is not redundant.
 ![](/assets/Diagram DC.png)
 Direct Connect: Now, AWS best practive will dictate that you have redundancy with AWS that you need 2 ports on two seperate routers on AWS side and do the same thing on your corporate Datacenter side as well.
+
+#### Virtual Interfaces
+
+![](/assets/VIFS.png)
