@@ -7,3 +7,4 @@
 4. Less than 1GBps thourgh AWS Partner Network(APN)
 5. Support for VLAN Trunking (802.1Q)
 6. Direct Connect can be partitioned Into Multiple virtual interfaces(VIFS)
+![](/assets/Direct Connect Benefit.png)
