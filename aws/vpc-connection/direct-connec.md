@@ -27,3 +27,7 @@ VIF: Virtual interface - Public connectivity to S3, EC2, DynamoDB. Private conne
 ##### EXAM Links
 * Deep Dive - AWS Direct Connect and VPNs:
 https://youtu.be/SMvom9QjkPk
+
+* AWS Direct Connect:
+https://aws.amazon.com/directconnect
+
