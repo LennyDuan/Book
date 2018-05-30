@@ -9,3 +9,4 @@
 6. Direct Connect can be partitioned Into Multiple virtual interfaces(VIFS)
 ![](/assets/Direct Connect Benefit.png)
 
+#### Diagram
