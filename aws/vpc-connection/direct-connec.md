@@ -32,4 +32,4 @@ https://youtu.be/SMvom9QjkPk
 https://aws.amazon.com/directconnect
 
 ---
-(https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=5&mode=live&start=12.254942&noteid=885bff79-202a-41bd-a488-629a50aba414)
+* [Pluralsight course link](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m4&clip=5&mode=live&start=12.254942&noteid=885bff79-202a-41bd-a488-629a50aba414)
