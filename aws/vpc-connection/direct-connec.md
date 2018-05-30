@@ -20,5 +20,5 @@ Depending on how far your corporate data center is from nearest AWS region or fr
 Direct Connect: Now, AWS best practive will dictate that you have redundancy with AWS that you need 2 ports on two seperate routers on AWS side and do the same thing on your corporate Datacenter side as well.
 
 #### Virtual Interfaces
-
+![](/assets/VIF.png)
 ![](/assets/VIFS.png)
