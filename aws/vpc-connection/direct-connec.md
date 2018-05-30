@@ -11,9 +11,10 @@
 
 #### Diagram
 Depending on how far your corporate data center is from nearest AWS region or from the nearest AWS Edge router, that will determine the speed that you're going to get to AWS. The closer you are to an Edge router or to a region, the better performance, lower latency.
+![](/assets/AWS DC Diagram.png)
 #####Colo will/can have direct connect with AWS
 ![](/assets/AWS DC Diagram 2.png)
 
-##### P.S. EXAM: ![](/assets/Diagram DC.png)Default direct connect doest not come with, it is not redundant.
-![](/assets/AWS DC Diagram.png)
+##### P.S. EXAM: Default direct connect doest not come with, it is not redundant.
+![](/assets/Diagram DC.png)
 Direct Connect: Now, AWS best practive will dictate that you have redundancy with AWS that you need 2 ports on two seperate routers on AWS side and do the same thing on your corporate Datacenter side as well.
