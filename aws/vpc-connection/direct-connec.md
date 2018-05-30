@@ -10,3 +10,5 @@
 ![](/assets/Direct Connect Benefit.png)
 
 #### Diagram
+Depending on how far your corporate data center is from nearest AWS region or from the nearest AWS Edge router, that will determine the speed that you're going to get to AWS. The closer you are to an Edge router or to a region, the better performance, lower latency. ![](/assets/AWS DC Diagram.png)
+
