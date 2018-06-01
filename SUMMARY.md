@@ -17,7 +17,7 @@
       * [VPC Peering](aws/vpc-connection/vpc-peering.md)
       * [VPC Access](aws/vpc-connection/vpc-access.md)
       * [Direct Connec](aws/vpc-connection/direct-connec.md)
-      * [VPN](aws/vpc-connection/vpn.md)
+      * [VPN CloudHub](aws/vpc-connection/vpn.md)
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
