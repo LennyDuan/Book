@@ -7,6 +7,6 @@
 * __Spot__: bid on instance on very lower rate. 
 * __Dedicated__:  
     * Dedicated host: for specific computer with the host details. Useful for bring your won license scenarios
-    * Dedicated instance: lose visibility and no details.
+    * Dedicated instance: lose visibility and no details. Compared with host, not good for license 
     
 ![](/assets/EC2 Type.png)
