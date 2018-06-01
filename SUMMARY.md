@@ -19,6 +19,7 @@
       * [Direct Connec](aws/vpc-connection/direct-connec.md)
       * [VPN CloudHub](aws/vpc-connection/vpn.md)
     * [EC2](aws/ec2.md)
+      * EC2 Instance Types
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
 
