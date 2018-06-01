@@ -6,7 +6,7 @@
     * Scheduled: particular time during week/month/year
 * __Spot__: bid on instance on very lower rate. 
 * __Dedicated__:  
-    * Dedicated host: for specific computer with the host details 
+    * Dedicated host: for specific computer with the host details. Useful for bring your won license scenarios
     * Dedicated instance: lose visibility no details.
     
 ![](/assets/EC2 Type.png)
