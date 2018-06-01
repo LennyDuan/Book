@@ -9,5 +9,5 @@ CloudHub is a method by which instead of having all of your branch offices conne
 ![](/assets/Origin Connection.png)
 
 #### With VPN CloudHub
-
+Connect to VPC direct without go though Corporate Datacenter and will get better performance
 ![](/assets/VPN CloudHub.png)
