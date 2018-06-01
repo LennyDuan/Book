@@ -8,3 +8,4 @@
 * Dedicated:  
     * Dedicated host: for specific computer with the host details 
     * Dedicated instance: lose visibility no details.
+
