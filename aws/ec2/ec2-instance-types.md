@@ -1,11 +1,11 @@
 ## EC2 Instance Types
 
-* On-demand: pay for your using 
-* Reserved:
+* __On-demand__: pay for your using 
+* __Reserved__:
     * Standard: 7/24 for 1 or 3 years 
     * Scheduled: particular time during week/month/year
-* Spot: bid on instance on very lower rate. 
-* Dedicated:  
+* __Spot__: bid on instance on very lower rate. 
+* __Dedicated__:  
     * Dedicated host: for specific computer with the host details 
     * Dedicated instance: lose visibility no details.
     
