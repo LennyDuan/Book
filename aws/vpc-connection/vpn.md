@@ -9,3 +9,5 @@ CloudHub is a method by which instead of having all of your branch offices conne
 ![](/assets/Origin Connection.png)
 
 #### With VPN CloudHub
+
+![](/assets/VPN CloudHub.png)
