@@ -4,4 +4,5 @@
 * Reserved:
     * Standard: 7/24 for 1 or 3 years 
     * Scheduled: particular time during week/month/year
-* Spot: bid on instance very lower rate. Dedicated - dedicated host for specific computer with the host details || dedicated instance - lose visibility no details.
+* Spot: bid on instance on very lower rate. 
+* Dedicated:  dedicated host for specific computer with the host details || dedicated instance - lose visibility no details.
