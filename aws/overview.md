@@ -11,4 +11,5 @@ In this note, I will introduce and record the knowledge/term/usage for different
 * __[Billing Trap](overview/billing-trap.md)__ - Be careful when use AWS free tier
 * __[Certification Roadmap](overview/certification-roadmap.md)__ - Basic AWS certifications for developer
 
-###### P.S Lots of knowledge are learned from 
+###### P.S Lots of knowledge are notes learned from [Pluralsight course](https://app.pluralsight.com/player?course=aws-certified-solutions-architect-associate&author=elias-khnaser&name=aws-certified-solutions-architect-associate-m2)
+
