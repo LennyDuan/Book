@@ -6,4 +6,5 @@
     * Scheduled: particular time during week/month/year
 * Spot: bid on instance on very lower rate. 
 * Dedicated:  
-    * Dedicated host: for specific computer with the host details * dedicated instance - lose visibility no details.
+    * Dedicated host: for specific computer with the host details 
+    * Dedicated instance: lose visibility no details.
