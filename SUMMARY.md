@@ -24,5 +24,6 @@
     * [MTurk ](amazon/mturk.md)
   * [AWS DEV](aws/aws-dev.md)
     * Seveless
-      * Lambda
+      * [Lambda](aws/aws-dev/lambda.md)
+        * S3
 
