@@ -23,7 +23,7 @@
   * [Amazon](amazon/amazon.md)
     * [MTurk ](amazon/mturk.md)
   * [AWS DEV](aws/aws-dev.md)
-    * Seveless
+    * [Seveless](aws/aws-dev/seveless.md)
       * [Lambda](aws/aws-dev/lambda.md)
         * S3
         * DynamoDB
