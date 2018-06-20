@@ -26,4 +26,7 @@
     * Seveless
       * [Lambda](aws/aws-dev/lambda.md)
         * S3
+        * DynamoDB
+        * SQS
+        * SNS
 
