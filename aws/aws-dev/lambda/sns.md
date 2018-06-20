@@ -3,8 +3,8 @@
 ```
 const AWS = require('aws-sdk');
 const SNS = new AWS.SNS();
-const arm = 'full_name_arm';
-const subject = 'full_name_subject';
+const arm = 'full-name-arm';
+const subject = 'full-name-subject';
 
 exports.handler = (payloads, context, callback) => {
   try {
