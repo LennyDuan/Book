@@ -28,5 +28,5 @@
         * S3
         * DynamoDB
         * SQS
-        * SNS
+        * [SNS](aws/aws-dev/lambda/sns.md)
 
