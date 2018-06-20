@@ -8,27 +8,17 @@ const subject = 'full-name-subject';
 
 exports.handler = (payloads, context, callback) => {
   try {
-    const upcs = payloads.upcs;
-    console.log(`Start check duplicated properties for upcs ${upcs.toString()}`);
-    upcs.forEach(upc => {
-      const msgBody = {
-        default: {
-          upc,
-        },
-        sqs: {
-          upc,
-        }
-      };
-      const params = {
-        Message: msgBody,
-        Subject: subject,
-        TopicArn: arm,
-      };
-      SNS.publish(params, context.done);
-      console.log(`Send SNS for property ${JSON.stringify(params)}`);
-    });
-
-    callback(null, "Check duplicated properties completed");
+    const body = payloads.body;
+    const msgBody = {
+      key: body,
+    };
+    const params = {
+      Message: msgBody,
+      Subject: subject,
+      TopicArn: arm,
+    };
+    SNS.publish(params, context.done);
+    callback(null, "SNS have been sent ${JSON.stringify(params)}");
   }
   catch (error) {
     console.log(`Error found: ${error}`);
