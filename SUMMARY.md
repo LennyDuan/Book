@@ -27,6 +27,8 @@
       * [Lambda](aws/aws-dev/lambda.md)
         * [S3](aws/aws-dev/lambda/s3.md)
         * [DynamoDB](aws/aws-dev/lambda/dynamodb.md)
+          * scan
+          * query
         * SQS
         * [SNS](aws/aws-dev/lambda/sns.md)
 
