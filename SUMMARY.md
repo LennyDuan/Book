@@ -25,8 +25,8 @@
   * [AWS DEV](aws/aws-dev.md)
     * [Seveless](aws/aws-dev/seveless.md)
       * [Lambda](aws/aws-dev/lambda.md)
-        * S3
-        * DynamoDB
+        * [S3](aws/aws-dev/lambda/s3.md)
+        * [DynamoDB](aws/aws-dev/lambda/dynamodb.md)
         * SQS
         * [SNS](aws/aws-dev/lambda/sns.md)
 
