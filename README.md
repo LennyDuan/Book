@@ -1,6 +1,6 @@
 # Amazon Technologies
 
-All the content can be viewed [lennyduan.gitbooks](https://lennyduan.gitbooks.io/aws-certified-solutions-architect-notebook/content/) 
+All the content can be viewed [lennyduan.gitbooks](https://lennyduan.gitbooks.io/aws-certified-solutions-architect-notebook/content/)
 
 ---
 
